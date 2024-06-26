@@ -1,10 +1,7 @@
 # PC-GNN
 
-This is the author implementation of "[Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)" (WebConf 2021).
+This is our implementation of "[Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)" (WebConf 2021).
 
-Slides and video can be found [here](https://ponderly.github.io/).
-
-[Yang Liu](https://ponderly.github.io/), [Xiang Ao](https://aoxaustin.github.io/), Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang and [Qing He](http://people.ucas.ac.cn/~heqing?language=en). 
 
 ## Requirements
 
@@ -44,7 +41,3 @@ python main.py --config ./config/pcgnn_yelpchi.yml
   year={2021}
 }
 ```
-
-## Other implementations
-
-Thanks for [Jack Huang](https://github.com/f26401004/PC-GNN) and [Ronald D. R. Pereira](https://github.com/ronaldpereira/pick-and-choose-gnn) for their kind implementations.
